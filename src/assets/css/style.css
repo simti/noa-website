@@ -1066,14 +1066,14 @@ height: 200px; */
         transition: all .5s;
     }
     
-    .summary__box--works {
+    /* .summary__box--works {
         background-color: #675c5a;
         width: 65rem;
         height: 45rem;
         right: 15px;
         background: url(../images/how_bg.jpg);
         background-size: cover;
-    }
+    } */
     
     .summary__box--about {
         background-color: #1f211e;
@@ -1640,7 +1640,7 @@ height: 200px; */
         height: 20rem;
     }
     
-    .team__intro--text::after {
+    /* .team__intro--text::after {
         content: url('../images/N of Noa.svg');
         position: absolute;
         top: 10px;
@@ -1648,9 +1648,9 @@ height: 200px; */
         left: -10px;
         width: 20rem;
         animation: blobby-wiggle2 7s ease-in-out 0s infinite;
-    }
+    } */
     
-    .clients__intro--text::after {
+    /* .clients__intro--text::after {
         content: url('../images/A-of-noa.svg');
         position: absolute;
         top: 10px;
@@ -1658,9 +1658,9 @@ height: 200px; */
         left: -10px;
         width: 20rem;
         animation: blobby-wiggle2 7s ease-in-out 0s infinite;
-    }
+    } */
     
-    .services__intro--text::after {
+    /* .services__intro--text::after {
         content: url('../images/O-of-noa.svg');
         position: absolute;
         top: 10px;
@@ -1668,7 +1668,7 @@ height: 200px; */
         left: -10px;
         width: 20rem;
         animation: blobby-wiggle2 7s ease-in-out 0s infinite;
-    }
+    } */
     
     .team__intro--subtext,
     .clients__intro--subtext,
@@ -2244,7 +2244,7 @@ height: 200px; */
         .row {
             margin: 0;
         }
-        .summary__box--works {
+        /* .summary__box--works {
             background-color: #675c5a;
             width: 80rem;
             height: 85rem;
@@ -2254,7 +2254,7 @@ height: 200px; */
             z-index: 1;
             right: 0;
             top: 0;
-        }
+        } */
         .summary__box--about {
             background-color: #1f211e;
             width: 80rem;
@@ -2313,14 +2313,14 @@ height: 200px; */
     }
     
     @media only screen and (min-width: 1200px) {
-        .summary__box--works {
+        /* .summary__box--works {
             background-color: #675c5a;
             width: 800px;
             height: 500px;
             right: 50px;
             background: url(../images/how_bg.jpg);
             background-size: cover;
-        }
+        } */
         .summary__box--about {
             background-color: #1f211e;
             width: 550px;
